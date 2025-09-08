@@ -1,4 +1,4 @@
-# Rotary-Display - Clock | Heat Pump | Light Dimmer Control
+# Rotary Display - Clock | Heat Pump | Light Dimmer Control
 This uses the Rotary Display and has a Clock, Heat pump and Light Dimmer control
 
 ## THIS IS STILL BEING DEVELOPPED.  THE CODE IS SHIT - TO BE TIDIED UP
