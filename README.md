@@ -36,13 +36,7 @@ I have added this into the code, <<: !include common.yaml
 
 It includes the following
 
-logger: |
-api: |
-ota: |
-wifi: |
-ap: |
-button: |
-text_sensor:
+logger: | api: | ota: | wifi: | ap: | button: | text_sensor:
 
 These are all the common/reusable settings I use for all projects.  To create this just create a new device but without all the extra crap and place what you wnat in there.  This can be placed elsewhere in the file structure, but I leave it here for easy access.
 
