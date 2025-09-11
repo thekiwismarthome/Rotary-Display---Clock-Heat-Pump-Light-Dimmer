@@ -3,7 +3,10 @@
 ### Todo
 
 - [ ] fix timeout for screen burn #Bug
-- [ ] add Weather Page 
+- [ ] add Weather Page
+- [ ] add visualisation Video
+- [ ] add Visualisation images
+- [ ] Update documentation with explanations
 - [ ] light on clock page does not go to grey when light switched off #Bug
 - [ ] add HA option to change background #Enhancement
 - [ ] add option to add/remove min & hr hands #Enhancement
